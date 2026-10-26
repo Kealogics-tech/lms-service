@@ -11,7 +11,7 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://gitlab.com/spn4/service.git",
+                "url": "https://github.com/Kealogics-tech/service-php82.git",
                 "reference": "8a0125ad00276d546c193a4051dd7bd7b5063c1d"
             },
             "dist": {
